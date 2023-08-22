@@ -1,0 +1,7 @@
+hungry
+get phone number
+get menu
+call pizza joint
+order pizza
+give address
+Pay for pizza
